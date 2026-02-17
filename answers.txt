@@ -1,3 +1,9 @@
+HEAD
 Q1: Why might we consider using Git?
 
 Answer: It helps standardize the way users access and update files, while also allowing many users to access the same code. It also allows users to work on their own version of the code, while keeping the original codebase untouched.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science could be applied to different fields such as medical, business, or financial fields. For example you could have data scientist in the medical field that compiles patient data and treatment types and establishes new medical protocols.
+q2
